@@ -1,4 +1,3 @@
-```html
 <!--
   Sathija Balachandra — GitHub Profile README
   Repository: https://github.com/Ninja2007S/Ninja2007S
