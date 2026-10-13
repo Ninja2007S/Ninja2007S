@@ -1,7 +1,7 @@
- <!--
+```html
+<!--
   Sathija Balachandra — GitHub Profile README
-  Paste into README.md in your profile repository:
-  https://github.com/Ninja2007S/Ninja2007S
+  Repository: https://github.com/Ninja2007S/Ninja2007S
 -->
 
 <div align="center">
@@ -22,6 +22,15 @@
 </a>
 <a href="https://github.com/Ninja2007S?tab=followers">
   <img src="https://img.shields.io/github/followers/Ninja2007S?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827&labelColor=0B1220" alt="GitHub followers"/>
+</a>
+
+<br/>
+
+<a href="https://www.tiktok.com/@x_sathija__balachandra_x">
+  <img src="https://img.shields.io/badge/TikTok-Follow-111827?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=0B1220" alt="TikTok — Sathija Balachandra"/>
+</a>
+<a href="https://www.instagram.com/x_sathija_balachandra_x">
+  <img src="https://img.shields.io/badge/Instagram-Follow-111827?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0B1220" alt="Instagram — Sathija Balachandra"/>
 </a>
 
 <br/><br/>
@@ -271,6 +280,12 @@ I'm interested in connecting with developers, AI enthusiasts, and researchers wh
 <a href="https://github.com/Ninja2007S">
   <img src="https://img.shields.io/badge/GitHub-Connect-111827?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
+<a href="https://www.tiktok.com/@x_sathija__balachandra_x">
+  <img src="https://img.shields.io/badge/TikTok-Follow-111827?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok"/>
+</a>
+<a href="https://www.instagram.com/x_sathija_balachandra_x">
+  <img src="https://img.shields.io/badge/Instagram-Follow-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
 
 <br/><br/>
 
@@ -281,3 +296,4 @@ I'm interested in connecting with developers, AI enthusiasts, and researchers wh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:142849,100:080D1A&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
+```
